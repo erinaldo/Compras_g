@@ -1,0 +1,573 @@
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmCompras.resources
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Usuario\Documents\GitHub\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmCompras.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Public\Documents\GitHub x\Halconet\HalcoNET Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmCompras.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmCompras.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Programador\Desktop\H_Compras\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmCompras.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Desktop\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmCompras.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmDetalleIndicadores.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmIndicadores.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmVisor.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.FrmPrincipal.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmBackorder.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComprasVolumen.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealAlmacen.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmOCAbiertas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmListadoDocumentos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmSalidas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListasPrecios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Luis Olivos\Documents\Visual Studio 2010\Projects\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmCompras.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmDetalleIndicadores.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmIndicadores.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmPedidoReubicaciones.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmVisor.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.FrmPrincipal.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmDocumentosConteo.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmImpresion_Eliminar.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmConteoFisico.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmPreeliminarConteo.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frm_Marbete.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAnalisisCompras.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribosVentas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmBackorder.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComprasVolumen.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmEntradasMercancia.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealAlmacen.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealxLinea.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListasPrecios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmOCAbiertas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmPE.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmQryVarios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.SeguimientoCompras.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentosPrevios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmListadoDocumentos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmTransferencia.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmSalidas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmCompras.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmDetalleIndicadores.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmIndicadores.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmPedidoReubicaciones.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmVisor.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.FrmPrincipal.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmDocumentosConteo.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmImpresion_Eliminar.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmConteoFisico.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmPreeliminarConteo.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frm_Marbete.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAnalisisCompras.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribos.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmBackorder.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComprasVolumen.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmEntradasMercancia.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealAlmacen.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealxLinea.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListasPrecios.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmOCAbiertas.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmPE.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmQryVarios.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.SeguimientoCompras.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentosPrevios.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmListadoDocumentos.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmTransferencia.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmSalidas.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAltaFacturas.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmConsultaFacturas.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAAASinStock.resources
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\bin\Debug\H_Compras.dll.config
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\bin\Debug\H_Compras.dll
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.dll.licenses
+C:\Users\Luis Olivos\Dropbox\Proyectos HalcoNet\H_Compras\H_Compras\obj\x86\Debug\H_Compras.dll
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmAsignarPedido.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmCompras.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmDetalleIndicadores.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmIndicadores.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmPedidoReubicaciones.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmVisor.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.FrmPrincipal.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmDocumentosConteo.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmImpresion_Eliminar.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmConteoFisico.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmPreeliminarConteo.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frm_Marbete.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAltaFacturas.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmConsultaFacturas.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAAASinStock.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAnalisisCompras.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribos.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmBackorder.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComprasVolumen.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmEntradasMercancia.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealAlmacen.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealxLinea.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListasPrecios.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmOCAbiertas.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmPE.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmQryVarios.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.SeguimientoCompras.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentosPrevios.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmListadoDocumentos.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmTransferencia.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmSalidas.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Programador\Dropbox\h_compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Programador\Dropbox\h_compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Programador\Dropbox\h_compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Pedro Juarez\Dropbox\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Pedro Juarez\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Pedro Juarez\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmDetalleOV.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmMensaje.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArticulosNuevos.resources
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.dll.licenses
+C:\Users\Administrador\Dropbox\Proyectos HalcoNET\H_Compras\H_Compras\obj\x86\Debug\H_Compras.dll
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\bin\Debug\SDK_SAP.dll
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmAsignarPedido.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmDetalleOV.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmMensaje.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmCompras.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmDetalleIndicadores.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmIndicadores.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmPedidoReubicaciones.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmVisor.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.FrmPrincipal.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmDocumentosConteo.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmConteoFisico.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmPreeliminarConteo.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frm_Marbete.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAdministracion.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAltaFacturas.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmConsultaFacturas.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAAASinStock.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAnalisisCompras.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArticulosNuevos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmBackorder.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComprasVolumen.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmEntradasMercancia.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealAlmacen.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealxLinea.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListasPrecios.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmOCAbiertas.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmPE.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmQryVarios.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.SeguimientoCompras.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDevoluciones.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmEM.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentosPrevios.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmListadoDocumentos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmLotes.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmTransferencia.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmSalidas.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAlert1.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.RecepcionDoctos.frmReporteTiempos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.RecepcionDoctos.frmRecepcionDctos.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.FACT.resources
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Luis Olivos\Dropbox\H_Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\H_Compras.dll.config
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\H_Compras.dll
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\H_Ventas.dll
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\SDK_SAP.dll
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmAsignarPedido.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmDetalleOV.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmMensaje.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.RecepcionDoctos.frmReporteTiempos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmConfiguracion.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmReporteVideo.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmTarimasRegistro.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmVideo1.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmPronosticoVentas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmCompras.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmDetalleIndicadores.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmIndicadores.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmPedidoReubicaciones.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmVisor.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.FACT.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.FrmPrincipal.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmDocumentosConteo.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAlert2.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAlert1.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmConteoFisico.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmPreeliminarConteo.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frm_Marbete.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAdministracion.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.RecepcionDoctos.frmRecepcionDctos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmReporte1.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmDM_Articulos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frm_AlternativeItems.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ListasPrecios.frmPrecios.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ListasPrecios.frmReporteLP.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ListasPrecios.frm_ReporteJP.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.LogisticaTransportes.FrmAltaKilometraje.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.LogisticaTransportes.FrmClientesReparto.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.LogisticaTransportes.FrmRepGeneral.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAltaActualizacionCoordenadas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAltaFacturas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAutorizacionesFoliosAux.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmCapturaRutas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmCatalogosRutas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmConsultaFacturas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmUbicacionesClientes.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Reparto.FrmDrawRutas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAAASinStock.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAlertasConfig.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAnalisisCompras.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArticulosNuevos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAuditoriaStocks.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmBackorder.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComprasVolumen.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmConsultTraspaso.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmEntradasMercancia.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealAlmacen.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealxLinea.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListasPrecios.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmOCAbiertas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmPE.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmQryVarios.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.SeguimientoCompras.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmSobreStock.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmStockOut.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmCreditMemo.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDevoluciones.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmEM.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentosPrevios.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmListadoDocumentos.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmLotes.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmTransferencia.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmSalidas.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Varios.frmDMSocios.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Varios.frmTransaccionesFR.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Transferencia.FrmConfirmacionTransferencia.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Transferencia.FrmEstacionalidadTransferencias.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.Transferencia.FrmSolicitudTransferencia.resources
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.dll.licenses
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.dll
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Administrador\Source\Workspaces\Área de trabajo\Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\H_Compras.exe.config
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.csprojResolveAssemblyReference.cache
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmAsignarPedido.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmDetalleOV.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Entregas.frmMensaje.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.RecepcionDoctos.frmReporteTiempos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmConfiguracion.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmReporteVideo.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmTarimasRegistro.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.Tarimas.frmVideo1.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmPronosticoVentas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmCompras.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmDetalleIndicadores.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmIndicadores.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.Pedido.frmPedidoReubicaciones.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Compras.frmConfiguracion.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Configuracion.frmHorizontes.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmEmpty.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Constantes.frmVisor.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.FACT.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.FrmPrincipal.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmDocumentosConteo.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAlert2.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAlert1.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmConteoFisico.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frmPreeliminarConteo.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ConteoFisico.frm_Marbete.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmAdministracion.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Almacen.RecepcionDoctos.frmRecepcionDctos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.Conteos.frmReporte1.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmAnalisisObsLento.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmDM_Articulos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReparto1.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmReubicaciones.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.frm_AlternativeItems.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ListasPrecios.frmPrecios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ListasPrecios.frmReporteLP.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Inventarios.ListasPrecios.frm_ReporteJP.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.LogisticaTransportes.FrmAltaKilometraje.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.LogisticaTransportes.FrmClientesReparto.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.LogisticaTransportes.FrmRepGeneral.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAltaActualizacionCoordenadas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAltaFacturas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmAutorizacionesFoliosAux.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmCapturaRutas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmCatalogosRutas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmConsultaFacturas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Logistica.FrmUbicacionesClientes.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Properties.Resources.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Reparto.FrmDrawRutas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAAASinStock.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAlertasConfig.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAnalisisCompras.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArribos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmArticulosNuevos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmAuditoriaStocks.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmBackorder.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmClasificacionABC.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComentarios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmComprasVolumen.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmConsultTraspaso.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmEntradasMercancia.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealAlmacen.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealLinea.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealxLinea.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListaPrecios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmListasPrecios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmOCAbiertas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmPE.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmQryVarios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmRptVentas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.SeguimientoCompras.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmSobreStock.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmStockOut.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmTraspasos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmCreditMemo.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDevoluciones.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmEM.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmDocumentosPrevios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmListadoDocumentos.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmLotes.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmTransferencia.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Documentos.frmSalidas.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Varios.frmDMSocios.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.SDK.Varios.frmTransaccionesFR.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Transferencia.FrmConfirmacionTransferencia.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Transferencia.FrmEstacionalidadTransferencias.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.Transferencia.FrmSolicitudTransferencia.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.csproj.GenerateResource.Cache
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.exe.licenses
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\H_Compras.exe
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\H_Compras.pdb
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\DirectX.Capture.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\DShowNET.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\H_Ventas.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\itextsharp.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\SDK_SAP.dll
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\obj\x86\Debug\H_Compras.ReportesVarios.frmIdealxLineaNuevo.resources
+C:\Users\Luis Olivos\Documents\Visual Studio 2013\Projects\TFS\Compras\H_Compras\bin\Debug\SAPBusinessOneSDK.dll
